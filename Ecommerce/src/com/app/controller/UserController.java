@@ -15,5 +15,6 @@ public class UserController {
                 System.out.println("User ID: " + user.getId() +
                                    ", Name: " + user.getName() +
                                    ", Email: " + user.getEmail()));
+        System.out.println("lines added by XYz");
     }
 }
