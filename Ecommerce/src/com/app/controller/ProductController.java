@@ -15,6 +15,9 @@ public class ProductController {
                 System.out.println("Product ID: " + product.getId() +
                                    ", Name: " + product.getName() +
                                    ", Price: $" + product.getPrice()));
+
         System.out.println("line added by XYz");
+
+        System.out.println("line added by ABc");
     }
 }
