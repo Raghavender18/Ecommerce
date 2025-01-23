@@ -14,6 +14,7 @@ public class ProductService {
     }
 
     public List<Product> getAllProducts() {
+    	System.out.println("added by sample 1");
         return products;
     }
 }
