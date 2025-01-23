@@ -19,5 +19,6 @@ public class OrderController {
                 System.out.println("Order ID: " + order.getOrderId() +
                                    ", User: " + order.getUser().getName() +
                                    ", Product Count: " + order.getProducts().size()));
+        System.out.println("added by b");
     }
 }
